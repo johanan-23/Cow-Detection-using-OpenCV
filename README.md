@@ -4,7 +4,7 @@
 ![cow detection](assets/cow_detection.png)
 ## Step 1: Clone this repository
 ```
-git clone https://github.com/WiraDKP/cow_detection_opencv.git
+git clone https://github.com/noorkhokhar99/Cow-Detection-using-OpenCV.git
 ```
 
 ## Step 2: Setup conda environment
