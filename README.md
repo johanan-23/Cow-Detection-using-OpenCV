@@ -1,5 +1,5 @@
 # Cow Detection using OpenCV
-This project is created as celebration of Eid al-Adha 2020. The object detection is performed with Pretrained SSD on COCO dataset. The SSD uses mobilenet v2 as backbone. The video is royalty free and you can found it [here](https://www.videvo.net/video/interested-cows/2867/)
+ The object detection is performed with Pretrained SSD on COCO dataset. The SSD uses mobilenet v2 as backbone. The video is royalty free and you can found it [here](https://www.videvo.net/video/interested-cows/2867/)
 
 ![cow detection](assets/cow_detection.png)
 ## Step 1: Clone this repository
