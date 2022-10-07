@@ -34,3 +34,4 @@ MAX_IOU = 0.5
 conda activate cow_detection
 python main.py
 ```# Cow-Detection-using-OpenCV
+# Cow-Detection-using-OpenCV
