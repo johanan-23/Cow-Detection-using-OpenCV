@@ -7,3 +7,5 @@ WINDOW_NAME = "detection"
 
 MIN_CONF = 0.4
 MAX_IOU = 0.5
+
+USE_CAMERA = True  # Set to True to use the laptop's front camera, False for video file
